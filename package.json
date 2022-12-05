@@ -1,0 +1,33 @@
+{
+  "name": "@crx-api/messaging",
+  "version": "1.0.0",
+  "description": "chrome浏览器插件通信库。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crx-api/messaging.git"
+  },
+  "keywords": [
+    "chrome",
+    "crx",
+    "api",
+    "messaging",
+    "extensions"
+  ],
+  "author": "kiccer <1072907338@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crx-api/messaging/issues"
+  },
+  "homepage": "https://github.com/crx-api/messaging#readme",
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0"
+  }
+}
