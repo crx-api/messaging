@@ -59,7 +59,7 @@ conn.emit('command2').then(res => {
 })
 ```
 
-### In the content script (same as popup script)
+### In the content script (same as options page)
 
 ```js
 import { Port } from '@crx-api/messaging'
