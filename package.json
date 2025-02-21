@@ -10,6 +10,9 @@
     "package": "plasmo package"
   },
   "dependencies": {
+    "@crx-api/messaging": "workspace:2.0.0-alpha.1",
+    "antd": "^5.24.1",
+    "normalize.css": "^8.0.1",
     "plasmo": "0.90.3",
     "react": "18.2.0",
     "react-dom": "18.2.0"
